@@ -1,0 +1,2 @@
+# MyNoteForGO
+GO learning note
